@@ -8,6 +8,3 @@ When the arguments correctly provided(For example maturity can not have a negati
 
 
 Note that the Call and Put prices might be zero depending on the values given to the BS calculator.
-
-
-Note also that the S&P dataset that the app extracts from two different sources are created only to be an example for the user. The volatility/Maturity/Interest rates given in this dataset are not correct but solely provided for the user to use for the BS calculation and see the relationship between the variables given in the dataset.
