@@ -8,3 +8,4 @@ When the arguments are correctly provided(For example maturity can not have a ne
 
 
 Note that the Call and Put prices might be zero depending on the values given to the BS calculator.
+Note also that the dataset used in the application is not correct even if the methodoly used is. It is there solely as an example for the user to use the calculator.
